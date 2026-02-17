@@ -10,7 +10,7 @@ const contactInfo = [
   {
     icon: Mail,
     label: '电子邮箱',
-    value: 'contact@11dim.com',
+    value: 'contact@11dm.cn',
   },
   {
     icon: MapPin,
@@ -128,7 +128,7 @@ export default function About() {
                   有项目需求？立即联系我们，获取专属解决方案
                 </p>
                 <button
-                  onClick={() => alert('请联系：19801350795 或发送邮件至 contact@11dim.com')}
+                  onClick={() => alert('请联系：19801350795 或发送邮件至 contact@11dm.cn')}
                   className="w-full bg-gradient-primary text-white px-6 py-4 rounded-xl font-medium hover:opacity-90 transition-opacity"
                 >
                   免费咨询
